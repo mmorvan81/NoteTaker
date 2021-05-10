@@ -1,18 +1,22 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "taking notes via localhost",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "M. Morvan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
   },
-  "repository" {
-  "type": "git",
-  "url": "git+https://github.com/mmorvan81/NoteTaker"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmorvan81/NoteTaker.git"
   },
+  "bugs": {
+    "url": "https://github.com/mmorvan81/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/mmorvan81/NoteTaker#readme"
 }

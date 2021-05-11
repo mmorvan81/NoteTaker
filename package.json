@@ -2,10 +2,10 @@
   "name": "note-taker",
   "version": "1.0.0",
   "description": "taking notes via localhost",
-  "main": "server.js",
+  "main": "server3050.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-	"scripts": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node server3050.js"
   },
   "author": "M. Morvan",
   "license": "ISC",
